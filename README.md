@@ -1,4 +1,4 @@
-# Jogo-do-N-mero-Secreto
+# Jogo-do-Número-Secreto
 Desenvolvido através do Curso de Lógica de programação: explore funções e listas da Alura em parceria com a ONE-Oracle Next Education.
 <br>
 
